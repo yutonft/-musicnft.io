@@ -1,0 +1,30 @@
+body{
+    background-color:black;
+    font-family: sans-serif;
+}
+
+p{color: white;}
+
+table{
+    margin: 0 auto 0 70px;
+}
+
+.table_jacket{
+    width: 600px;
+}
+
+td{
+    padding: 30px;
+    width: 400px;
+}
+
+.music_title{
+    font-size: 60px;
+    line-height: 0.2;
+}
+
+.music_dadata{font-size: 30px;}
+
+audio{
+    width: 400px;
+}
